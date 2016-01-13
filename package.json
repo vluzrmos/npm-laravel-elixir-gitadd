@@ -11,7 +11,7 @@
     "Elixir",
     "Git"
   ],
-  "author": "Vagner Luz do Carmo <vluzrmos@gmail.com>",
+  "author": "Vagner Luz do Carmo",
   "license": "MIT",
   "dependencies": {
     "gulp": "^3.8.8",
