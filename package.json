@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-gitadd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Git add command for Laravel Elixir",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,6 @@
   "license": "MIT",
   "dependencies": {
     "gulp": "^3.8.8",
-    "laravel-elixir": "^3.0.0",
     "gulp-shell": "~0.5.1"
   }
 }
