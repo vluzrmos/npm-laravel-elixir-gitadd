@@ -1,0 +1,21 @@
+{
+  "name": "laravel-elixir-gitadd",
+  "version": "0.0.1",
+  "description": "Git add command for Laravel Elixir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Laravel",
+    "Elixir",
+    "Git"
+  ],
+  "author": "Vagner Luz do Carmo <vluzrmos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "laravel-elixir": "^3.0.0",
+    "gulp-shell": "~0.5.1"
+  }
+}
